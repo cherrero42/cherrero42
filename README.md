@@ -16,7 +16,6 @@ whoAmI{
   aka: NjggNjUgNzIgNjEgNjMgNmY;
   currently: CyberSecurity,
              Working on some projects at 42 School;
-  goal: CyberSecurity Engineer;
 }
    
 whereAmIFrom{
