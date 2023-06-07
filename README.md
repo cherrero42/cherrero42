@@ -24,7 +24,7 @@ whereAmIFrom{
   aka: world;
 }
    
-languajes{
+languages{
   spanish: native;
   english: fluent;
   german: good;
