@@ -35,7 +35,7 @@ languages{
 </td></tr></table>  
 <div align="center">  
 
-## Some things about 42School
+## Some things about 42 School
 </div>
   
 ````CSS
@@ -44,6 +44,7 @@ languages{
   aka: philanthropist;
   grade: learner;
   level: 3 - 21%;
+  start: Sept 2023;
 }
    
 projects{
