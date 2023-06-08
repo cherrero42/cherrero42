@@ -1,29 +1,27 @@
 <h1 align="center">Carlos H.</h1>
 <h3 align="center">Student at programming & life school 42 | CyberSecurity | Analyst</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/carlosherreroac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosherreroac" height="30" width="40" /></a>
-</p>
+<h3 align="left">Connect with me:<a href="https://linkedin.com/in/carlosherreroac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosherreroac" height="30" width="40" /></a></h3>
 
-  
-</div>
 
 ````CSS
 
-whoAmI{
+whoAmI
+{
   user: cherrero;
   aka: NjggNjUgNzIgNjEgNjMgNmY;
   currently: CyberSecurity,
              Working on some projects at 42 School;
 }
    
-whereAmIFrom{
+whereAmIFrom
+{
   city: Málaga,Spain;
   aka: world;
 }
    
-languages{
+languages
+{
   spanish: native;
   english: fluent;
   german: good;
@@ -31,15 +29,11 @@ languages{
 
 ````
 
-
-</td></tr></table>  
-<div align="center">  
-
-## Some things about 42 School
-</div>
+<div align="center"> ## About my projects in 42 School </div>
   
 ````CSS
-42 Cursus{
+42 Cursus
+{
   user: cherrero;
   aka: philanthropist;
   grade: learner;
@@ -47,29 +41,33 @@ languages{
   start: Sept 2023;
 }
    
-projects{
-  libft: scored 125/100;
-  born2beroot: scored 125/100;
-  printf: scored 100/100;
-  get_next_line: scored 125/100;
-  exam_rank02: scored 100/100;
-  minitalk: scored 125/100;
-  push_swap: scored 125/100;
+{
+  libft: 125/100;
+  born2beroot: 125/100;
+  printf: 100/100;
+  get_next_line: 125/100;
+  exam_rank02: 100/100;
+  minitalk: 125/100;
+  push_swap: 125/100;
 }
    
-currentlyWorkingOn{
+currentlyWorkingOn
+{
   fdf: sort algorithm;
 }
 
-C Piscine{
+C Piscine
+{
   level: 7 - 64%;
   date: August 2022;
 }
 
-BootCamp Cybersecurity{
+BootCamp Cybersecurity
+{
   level: 1 - 56%;
   date: Apr-Jun 2023;
 }
+
 ````
  
 
