@@ -14,13 +14,13 @@ whoAmI
              Working on some projects at 42 School;
 }
    
-whereAmIFrom
+whereAmI
 {
   city: Málaga,Spain;
   aka: world;
 }
    
-languages
+whatCanI:
 {
   spanish: native;
   english: fluent;
@@ -51,7 +51,7 @@ languages
   push_swap: 125/100;
 }
    
-currentlyWorkingOn
+inProgress
 {
   fdf: sort algorithm;
 }
