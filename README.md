@@ -6,22 +6,19 @@
 
 ````CSS
 
-whoAmI
-{
+whoAmI{
   user: cherrero;
   aka: NjggNjUgNzIgNjEgNjMgNmY;
   currently: CyberSecurity,
              Working on some projects at 42 School;
 }
    
-whereAmI
-{
+whereAmI{
   city: Málaga,Spain;
   aka: world;
 }
    
-whatCanI:
-{
+whatCanI:{
   spanish: native;
   english: fluent;
   german: good;
@@ -29,19 +26,20 @@ whatCanI:
 
 ````
 
-<div align="center"> ## About my projects in 42 School </div>
+<div align="center">
+## About my projects in 42 School
+</div>
   
 ````CSS
-42 Cursus
-{
+42 Cursus{
   user: cherrero;
   aka: philanthropist;
   grade: learner;
   level: 3 - 21%;
   start: Sept 2023;
 }
-   
-{
+
+My projects{
   libft: 125/100;
   born2beroot: 125/100;
   printf: 100/100;
@@ -51,19 +49,16 @@ whatCanI:
   push_swap: 125/100;
 }
    
-inProgress
-{
+inProgress{
   fdf: sort algorithm;
 }
 
-C Piscine
-{
+C Piscine{
   level: 7 - 64%;
   date: August 2022;
 }
 
-BootCamp Cybersecurity
-{
+BootCamp Cybersecurity{
   level: 1 - 56%;
   date: Apr-Jun 2023;
 }
