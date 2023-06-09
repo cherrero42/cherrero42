@@ -39,7 +39,7 @@ whatCanI:{
   start: Sept 2023;
 }
 
-My projects{
+cursus projects{
   libft: 125/100;
   born2beroot: 125/100;
   printf: 100/100;
@@ -50,7 +50,7 @@ My projects{
 }
    
 inProgress{
-  fdf: sort algorithm;
+  fdf: 3D graphics;
 }
 
 C Piscine{
