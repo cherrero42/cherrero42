@@ -59,7 +59,8 @@ C Piscine{
 }
 
 BootCamp Cybersecurity{
-  level: 1 - 56%;
+  level: 1 - 60%;
+  xp: I was able to complete all the projects by working as a team;
   date: Apr-Jun 2023;
 }
 
