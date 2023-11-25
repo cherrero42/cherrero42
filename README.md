@@ -1,8 +1,9 @@
 <h1 align="center">Carlos H.</h1>
-<h3 align="center">Student at programming & life school 42 | CyberSecurity | Analyst</h3>
+<h3 align="center">CyberSecurity | Analyst</h3>
 
 <h3 align="left">Connect with me:<a href="https://linkedin.com/in/carlosherreroac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosherreroac" height="30" width="40" /></a></h3>
 
+<p align="left"><a href="https://learn.microsoft.com/en-us/users/carlosheac/" target="blank">My learning path</a></p>
 
 ````CSS
 
