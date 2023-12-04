@@ -52,7 +52,7 @@ inProgress{
 }
 
 ````
-<p align="center"> <img src="./percentil18.jpeg" alt="image" width="256"/> </p>
+<p align="center"> <img src="./percentil18.jpg" alt="image" width="256"/> </p>
 
 ````CSS
 C Piscine{
