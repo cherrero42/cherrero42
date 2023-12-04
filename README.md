@@ -51,8 +51,10 @@ inProgress{
   fdf: 3D graphics;
 }
 
+````
 <p align="center"> <img src="./percentil18.jpeg" alt="image" width="256"/> </p>
 
+````CSS
 C Piscine{
   level: 7 - 64%;
   date: August 2022;
