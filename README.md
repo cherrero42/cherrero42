@@ -67,6 +67,7 @@ BootCamp Cybersecurity{
 }
 
 ````
+<p align="center"> <img src="./skillsSecurity.jpg" alt="image" width="256"/> </p>
 # 
  <p align="center">
   <a href="https://visitcount.itsvg.in">
