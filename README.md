@@ -60,6 +60,9 @@ C Piscine{
   date: August 2022;
 }
 
+````
+  
+````CSS
 BootCamp Cybersecurity{
   level: 1 - 60%;
   xp: I was able to complete all the projects by working as a team;
