@@ -3,8 +3,6 @@
 
 <h3 align="left">Connect with me:<a href="https://linkedin.com/in/carlosherreroac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosherreroac" height="30" width="40" /></a></h3>
 
-<p align="left"><a href="https://learn.microsoft.com/en-us/users/carlosheac/" target="blank">My MS learning path</a></p>
-
 
 ````CSS
 
@@ -46,6 +44,9 @@ whatCanI:{
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cherrero42&show_icons=true&locale=en" alt="cherrero42" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cherrero42&" alt="cherrero42" /></p>
+
+
+<p align="left"><a href="https://learn.microsoft.com/en-us/users/carlosheac/" target="blank">My MS learning path</a></p>
 
 
 <h3 align="center">About my projects in 42 School</h3>
