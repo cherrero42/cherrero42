@@ -45,9 +45,12 @@ whatCanI:{
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cherrero42&" alt="cherrero42" /></p>
 
+<br>
 
-<p align="left"><a href="https://learn.microsoft.com/en-us/users/carlosheac/" target="blank">My MS learning path</a></p>
+<h2 align="left"><a href="https://learn.microsoft.com/en-us/users/carlosheac/" target="blank">My MS learning path</a></h2>
 
+<br>
+<br>
 
 <h3 align="center">About my projects in 42 School</h3>
   
